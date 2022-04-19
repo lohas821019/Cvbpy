@@ -1,5 +1,5 @@
 # Cvbpy
-Using Python module cvbpy to control the BU505MG camera 331254
+Using Python module cvbpy to control the BU505MG camera 
 
 ![BU505MG](https://user-images.githubusercontent.com/101848874/158926859-75dab19c-20bd-4cab-a692-1f80c59c7e67.PNG)
 
