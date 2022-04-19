@@ -5,22 +5,28 @@ Using Python module cvbpy to control the BU505MG camera 331254
 
 ## Getting Started
 ---
-`python -m pip install opencv-python`
-`python -m pip install matplotlib`
+
+```
+python -m pip install opencv-python
+python -m pip install matplotlib
+````
 
 At first, you have to  download the common vison blox from the link
 (https://www.commonvisionblox.com/en/cvb-download/) 
 
-and then  you can find the file from here
+and then  you can find the file from here , and follow the instruction to install the module
 
 ![擷取](https://user-images.githubusercontent.com/101848874/158926912-400b0e1f-febb-4401-91d5-35faa04050f0.PNG)
 ![擷取1](https://user-images.githubusercontent.com/101848874/158926924-1fe3af06-b6f1-430c-b3a9-ae49c2cb07c3.PNG)
 
 
-`python - m pip install cvb-1.1-cp35.cp36.cp37-none-win_amd64`
+```
+python - m pip install cvb-1.1-cp35.cp36.cp37-none-win_amd64.whl
+```
 
+After installed all of the packages, you can open the main.py to test your camera.
 
 ![擷取3](https://user-images.githubusercontent.com/101848874/158926932-7bba9252-27d3-46cb-a880-cd138c297c1a.PNG)
 
 
-18/03/2022 10:31
+19/04/2022 10:47
